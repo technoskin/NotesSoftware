@@ -1,3 +1,5 @@
+# HOW TO USE
+
 Create an account
 - Input "create" on first screen
 - Select a Username
@@ -19,3 +21,7 @@ Ex. if you make a new file which just stores "Data" then write 1... and add your
 - When you are done, you must write "e" to encrypt the data and send it to the text file.
 
 
+# Example Accounts
+
+Login: TestUser Password: TestUser1234
+Login: EasterEgg Password: ????? Try figuring this one out on your own.
