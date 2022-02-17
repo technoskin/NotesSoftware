@@ -23,5 +23,5 @@ Ex. if you make a new file which just stores "Data" then write 1... and add your
 
 # Example Accounts
 
-Login: TestUser Password: TestUser1234
-Login: EasterEgg Password: ????? Try figuring this one out on your own.
+- Login: TestUser Password: TestUser1234
+- Login: EasterEgg Password: ????? Try figuring this one out on your own.
